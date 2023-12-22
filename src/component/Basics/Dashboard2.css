@@ -1,0 +1,20 @@
+.file-label,
+.date-label {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+#fileInput,
+#datePicker {
+  margin-bottom: 10px;
+  margin-left: 20px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+
+
+
+/* Add more styles as needed */
